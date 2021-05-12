@@ -3,7 +3,9 @@
 
 
 CartTextrophe
+
 Cartography + text →catastrophe 
+
 ∴CartTextrophe
 
 An open-sourced multi-lingual spellchecker for ArcGIS v10.8 or earlier.
