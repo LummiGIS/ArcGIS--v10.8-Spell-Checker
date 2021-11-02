@@ -4,7 +4,7 @@
 
 CartTextrophe
 
-Cartography + text →catastrophe 
+Cartography + text
 
 ∴CartTextrophe
 
